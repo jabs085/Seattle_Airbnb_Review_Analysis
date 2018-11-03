@@ -12,28 +12,38 @@ an attempt in doing so:
 > 4. What are the customers saying about high/low rating listings and is there any
 insight to what impacted review scores.
 
+---
 
-## Libraries
+## Libraries on python3
 
-python3
-matplotlib
-numpy
-pandas
-seaborn
-nltk
-sklearn
-wordcloud
-
-
+* matplotlib
+  * pyplot
+* numpy
+* pandas
+* seaborn
+* nltk
+  * tokenize.word_tokenize 
+  * sentiment.vader.SentimentIntensityAnalyzer
+  * corpus.names
+* sklearn
+  * ensemble.RandomForestClassifier
+  * metrics.accuracy_score
+  * model_selection.train_test_split
+  * preprocessing.MinMaxScaler
+* wordcloud
+  * STOPWORDS
+  * WordCloud
 
 ## Contents
 
+### Data
  * calendar.csv - Availability data for 2016
-
 
  * listings.csv - Listing details, host information along with review data.
 
-
  * reviews.csv - Listing reviewer information along with comment left from reviewer.
+
+### Notebooks
+ * Seattle_AirBnB_Review_Analysis - A light analysis on review scores from the Seattle AirBnB dataset.
 
 
