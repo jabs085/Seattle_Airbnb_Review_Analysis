@@ -38,9 +38,7 @@ insight to what impacted review scores.
 
 ### Data
  * calendar.csv - Availability data for 2016
-
  * listings.csv - Listing details, host information along with review data.
-
  * reviews.csv - Listing reviewer information along with comment left from reviewer.
 
 ### Notebooks
