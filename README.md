@@ -44,4 +44,16 @@ insight to what impacted review scores.
 ### Notebooks
  * Seattle_AirBnB_Review_Analysis - A light analysis on review scores from the Seattle AirBnB dataset.
 
+### Summary
+
+
+The completed analysis is suspect to my experience, which may have led to less than optimal decisions. Nonetheless, I feel confident in the completed notebook and believe this can help those who are just getting started in data science or are considering listing on Airbnb.
+
+1. Detected Correlated features 
+
+2. Successfully predicted the review rating. 
+
+3. Enumerated critical features to predict the rating. Thereby, finding what is important to the customers. 
+
+4. In order to get a better idea of what makes these reviews tick I generated a word cloud for each type of review (Positive, negative). 
 
